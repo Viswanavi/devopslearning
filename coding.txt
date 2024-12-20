@@ -1,1 +1,11 @@
 created coding text file
+
+Print void main
+{
+
+a=1
+b-2
+c= a+b
+Print c
+}
+
